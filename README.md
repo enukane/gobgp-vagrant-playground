@@ -25,7 +25,7 @@ vagrant-based playground for gobgp
 % sudo ID=${VMID} /etc/init.d/gobgpd start
 ```
 
-- Specifying ID(VMID) is required to pick p corresponding configration in /vagrant
+- Specifying ID(VMID) is required to pick up corresponding configuration in /vagrant/bgp.${VMID}.conf
 
 #### show log
 
